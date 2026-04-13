@@ -124,7 +124,7 @@ Beauchesne et al. 2025
 :::
 
 :::
-::: {.callout-important icon="false"}
+::: {.callout-important icon="false" .fragment}
 ### Scotian Shelf food webs
 
 ::: {style="font-size: 70%;"}
@@ -139,7 +139,7 @@ Beauchesne et al. 2025
 :::
 :::
 ::: {.column}
-::: {.callout-tip icon="false"}
+::: {.callout-tip icon="false" .fragment}
 ### St. Lawrence maritime activities
 
 ::: {style="font-size: 70%;"}
@@ -151,7 +151,7 @@ Beauchesne et al. 2025
 
 :::
 :::
-::: {.callout-warning icon="false"}
+::: {.callout-warning icon="false" .fragment}
 ### St. Lawrence Regional Assessment
 
 ::: {style="font-size: 70%;"}
@@ -167,6 +167,14 @@ Beauchesne et al. 2025
 :::
 :::
 <!-- end columns -->
+
+## Common lesson {.transition-slide .center}
+
+### *The hard part is not only completing an assessment*
+
+### *It is keeping scope, evidence, and pathways reusable* {.fragment}
+
+### *That is what makes assessments operational* {.fragment}
 
 # Operationalizing assessments
 
@@ -276,7 +284,7 @@ Beauchesne et al. 2025
 
 ## In a nutshell {.transition-slide .center}
 
-***Levarages the assessments***
+***Leverages the assessments***
 
 ***to build capacity beyond simple reporting***
 
@@ -285,13 +293,13 @@ Beauchesne et al. 2025
 ## funnel2 {#funnel_eco2 .full-image-slide data-background-image="img/funnel_eco.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
 
-## When the next project arrives {.transition-slide .center}
+## Project-scale CEA {.transition-slide .center}
 
-### *Build on existing context*
+### *Apply regional context to freshwater projects*
 
-### *Assess risk (much!) faster*
+### *Assess incremental risk much faster*
 
-### *Support defensible decisions*
+### *Support defensible scoping, mitigation, and follow-up*
 
 
 
@@ -299,9 +307,171 @@ Beauchesne et al. 2025
 
 ## AI-Assisted workflows
 
-# inSileco
+::: {style="font-size: 85%;"}
+*AI as a co-pilot for cumulative effects work*
+:::
 
-## Services
+::: {.columns}
+::: {.column}
+::: {.callout-note icon="false"} 
+### Define scope
+
+::: {style="font-size: 70%;"}
+- Draft valued components, stressors, pathways, and indicators
+- Surface assumptions, missing information, and key questions
+
+
+:::
+
+:::
+::: {.callout-important icon="false" .fragment} 
+### Gather evidence
+
+::: {style="font-size: 70%;"}
+- Find relevant reports, datasets, and monitoring sources
+- Extract structured content into reusable assessment templates
+
+
+
+:::
+
+:::
+:::
+::: {.column}
+::: {.callout-tip icon="false" .fragment}
+### Explore outputs
+
+::: {style="font-size: 70%;"}
+- Query maps, scenarios, and species risks in plain language
+- Generate draft summaries to support discussion and reporting
+
+
+:::
+:::
+::: {.callout-warning icon="false" .fragment}
+### Guardrails
+
+::: {style="font-size: 70%;"}
+- Human reviewed
+- Source linked
+- Versioned and auditable
+- Used to support, not replace, expert judgment
+
+:::
+:::
+
+:::
+:::
+<!-- end columns -->
+
+# *inSileco*
+
+## About Us
+
+:::: {.columns}
+
+::: {.column width="70%"}
+---
+
+:::{.fragment}
+
+::: {style="font-size: 90%;"}  
+- Research data management 
+- Automated workflows
+- Advanced analytics
+- Decision-support tools
+:::
+
+---
+
+:::
+
+
+:::{.fragment}
+*Collaborations:*
+
+::: {style="font-size: 60%;"}  
+*Academia (CEM, UofG, UL, ArcticNet)* 
+
+*Federal (ECCC, AEIC, DFO)* 
+
+*Provincial (MNR, )*
+
+*First Nations (W8banaki, Wendake)*
+
+:::
+
+:::
+
+:::
+
+
+::: {.column width="30%"}
+::: {style="display:flex; flex-direction:column; align-items:center; gap:0px; min-height:520px;"}
+<div class="team-card">
+  <a href="https://insileco.io/" target="_blank" class="team-photo-link">
+    <img src="img/david.jpg" alt="David Beauchesne" class="team-photo">
+  </a>
+
+  <a href="https://insileco.io/" target="_blank" class="team-photo-link">
+    <img src="img/kcazelles.jpg" alt="Kevin Cazelles" class="team-photo">
+  </a>
+</div>
+
+<a href="https://insileco.io/" target="_blank" style="display:block; text-align:center; width:100%;">
+  <img src="img/main_w_text.png" style="display:block; width:200px; margin:0 auto;">
+</a>
+
+
+<div class="team-card">
+  <a href="https://insileco.io/" target="_blank" class="team-photo-link">
+    <img src="img/vbellavance.jpg" alt="Vincent Bellavance" class="team-photo">
+  </a>
+  <a href="https://insileco.io/" target="_blank" class="team-photo-link">
+    <img src="img/steve.jpg" alt="Steve Vissault" class="team-photo">
+  </a>
+</div>
+
+:::
+:::
+
+:::: 
+
+
+## *inSileco*
+
+### How we support cumulative effects work
+
+::: {.callout}
+### Knowledge systems
+
+- Structure pathways, indicators, and evidence so they can be reused
+- Turn one-off studies into living regional context
+
+:::
+::: {.callout}
+### Analytics
+
+- Build reproducible cumulative effects workflows and scenario analyses
+- Connect scoping, modelling, and reporting in one system
+
+:::
+::: {.callout}
+### Decision tools
+
+- Deliver interfaces to explore risks, pathways, and management options
+- Help teams interrogate results instead of reading static outputs
+
+:::
+::: {.callout}
+### Automation
+
+- Update data, rerun analyses, and support reporting at lower cost
+- Add AI where it reduces friction without weakening defensibility
+
+:::
+
+# 
 
 ::: {style="font-size: 110%;"}
 
