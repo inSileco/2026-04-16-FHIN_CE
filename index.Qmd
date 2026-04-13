@@ -1,0 +1,323 @@
+---
+title: "Cumulative effects assessments"
+subtitle: "***Approach and operationalization***"
+author: "*inSileco*"
+date: "2026-04-16"
+from: markdown+emoji
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var logo = document.querySelector('.slide-logo');
+  if (logo) {
+    var link = document.createElement('a');
+    link.href = 'https://www.insileco.io';
+    link.target = '_blank';
+    logo.parentNode.insertBefore(link, logo);
+    link.appendChild(logo);
+  }
+});
+</script>
+```
+
+## Plan
+
+- Cumulative effects assessments
+- Completed assessments
+- Operationalizing assessments 
+- Perspectives
+- Q&A
+
+
+# Cumulative effects assessments
+
+## An ecosystem perspective
+
+::: {style="font-size: 80%;"}
+####### ***Cumulative effects***: combined impacts of a project interacting with past, present, and future activities
+
+<br>
+
+####### ***Regional assessment***: evaluates how multiple activities interact with ecosystems at a regional scale to understand broader patterns of impact {.fragment}
+
+<br>
+
+####### ***Ecosystem management***: managing human activities based on ecosystem processes, using adaptive decisions to sustain structure, function, and resilience {.fragment}
+
+::: 
+
+:::footer
+Loi canadienne sur l'évaluation environnementale (1992); Christensen et al. (1996); Sinclair et al. (2017)
+:::
+
+
+## funnel {#funnel_eco .full-image-slide data-background-image="img/funnel_eco.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+## Approach
+
+<center><img src="img/1-species.png" width="100%"></img></center>
+
+:::footer
+Halpern et al. 2008; Halpern et al. 2015; Halpern et al. 2019; Halpern et al. 2025
+:::
+
+## Approach
+
+<center><img src="img/2-species_single_path.png" width="100%"></img></center>
+
+
+:::footer
+Halpern et al. 2008; Halpern et al. 2015; Halpern et al. 2019; Halpern et al. 2025
+:::
+
+
+## Approach
+
+<br/><br/>
+
+<center><img src="img/3-map_single_path.png" width="80%"></img></center>
+
+<p style="font-size:90%;">
+$$Effect = E_i * D_j * \mu_{i,j}$$
+</p>
+
+:::footer
+Halpern et al. 2008; Halpern et al. 2015; Halpern et al. 2019; Halpern et al. 2025
+:::
+
+## Approach
+
+<center><img src="img/4-map_all_path.png" width="50%"></img></center>
+
+:::footer
+Halpern et al. 2008; Halpern et al. 2015; Halpern et al. 2019; Halpern et al. 2025
+:::
+
+## Approach
+
+<center><img src="img/ncea_method.png" width="65%"></img></center>
+
+:::footer
+Beauchesne et al. 2025
+:::
+
+
+# Completed assessments
+
+## NCEA {#useful-output .full-image-slide data-background-image="img/ncea.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+##
+
+::: {.columns}
+::: {.column}
+::: {.callout-note icon="false"}
+### St. Lawrence food webs
+
+::: {style="font-size: 70%;"}
+***Species***: 193 &emsp; ***Stressors***: 18
+
+<a href="https://www.science.org/doi/10.1126/sciadv.adp9315" target="_blank" rel="noopener noreferrer">
+<center><img src="img/ncea.png" width="68%"></img></center>
+</a>
+
+:::
+
+:::
+::: {.callout-important icon="false"}
+### Scotian Shelf food webs
+
+::: {style="font-size: 70%;"}
+***Species***: 205 &emsp; ***Habitats***: 21 &emsp; ***Stressors***: 16
+
+<a href="https://ecosystem-assessments.github.io/nceadfo/" target="_blank" rel="noopener noreferrer">
+  <center><img src="img/nceass.png" width="68%"></img></center>
+</a>
+
+:::
+
+:::
+:::
+::: {.column}
+::: {.callout-tip icon="false"}
+### St. Lawrence maritime activities
+
+::: {style="font-size: 70%;"}
+***Valued components***: 4 (83) &emsp; ***Stressors***: 7 (26)
+
+<a href="https://github.com/EffetsCumulatifsNavigation" target="_blank" rel="noopener noreferrer">
+<center><img src="img/ceanav.png" width="67%"></img></center>
+</a>
+
+:::
+:::
+::: {.callout-warning icon="false"}
+### St. Lawrence Regional Assessment
+
+::: {style="font-size: 70%;"}
+***Upcoming***
+
+<a href="img/ersl_regions.png" target="_blank" rel="noopener noreferrer">
+<center><img src="img/ersl_regions.png" width="43%"></img></center>
+</a>
+
+:::
+:::
+
+:::
+:::
+<!-- end columns -->
+
+# Operationalizing assessments
+
+## What questions are answered? {.transition-slide .center}
+
+### *The current state of the region*
+
+### *Risks to valued components* {.fragment}
+
+### *Pathways of effects* {.fragment}
+
+### *Management & mitigation priorities* {.fragment}
+
+
+## Then what? {.transition-slide .center}
+
+### *Single set of answers*
+
+### *Assessment quickly becomes outdated* {.fragment}
+
+### *Accumulated knowledge is scattered* {.fragment}
+
+
+## What if? {.transition-slide .center}
+
+### *Single set of answers*
+
+### ***Can be updated and reused***
+
+### ***Value grows as knowledge accumulates***
+
+## How do we operationalize? {.transition-slide .center}
+
+### *Knowledge management* {.fragment}
+
+### *Analytical capabilities* {.fragment}
+
+### *Decision-support tools* {.fragment}
+
+### *Automated workflows* {.fragment}
+
+
+## Operationalizing assessments 
+
+::: {.columns}
+::: {.column}
+::: {.callout-note icon="false"} 
+### Knowledge Management
+
+::: {style="font-size: 70%;"}
+<a href="https://019cd85e-37b5-a29b-fb8c-df7df4c6e1b1.share.connect.posit.cloud/?private_link_token=ZkNZtBUjcXOk5ivAH4WIQy0nOQYppE2flClTVMDzIKR0O8JkS2xVNNaOZuLeBkWk" target="_blank" rel="noopener noreferrer">
+<center><img src="img/ersl_hub.png" height="170"></img></center>
+</a>
+
+:::
+
+:::
+::: {.callout-important icon="false" .fragment} 
+### Analytical capabilities
+
+::: {style="font-size: 70%;"}
+<a href="https://github.com/inSileco/rcea" target="_blank" rel="noopener noreferrer">
+  <center><img src="img/rcea.png" height="170"></img></center>
+</a>
+
+:::
+
+:::
+:::
+::: {.column}
+::: {.callout-tip icon="false" .fragment}
+### Decision-support tools
+
+::: {style="font-size: 70%;"}
+<a href="https://019cd4a4-de96-879e-dccf-534a7bdd2a23.share.connect.posit.cloud/?private_link_token=9Ri4yjiCBEKhIRtkPqoW3SVbkKZoX8t997EvMkV0u6k0eYhPEuWle3Vlm8viLdnr" target="_blank" rel="noopener noreferrer">
+<center><img src="img/cea_explorer.png" height="170"></img></center>
+</a>
+
+:::
+:::
+::: {.callout-warning icon="false" .fragment}
+### Automated workflows
+
+::: {style="font-size: 70%;"}
+<a href="img/workflow3.png" target="_blank" rel="noopener noreferrer">
+<center><img src="img/workflow3.png" height="170"></img></center>
+</a>
+
+:::
+:::
+
+:::
+:::
+<!-- end columns -->
+
+
+## Why does this matter? {.transition-slide .center}
+
+### *Shared regional memory*
+
+### *Updatable context* {.fragment}
+
+### *Reuse across assessments* {.fragment}
+
+### *Operational capacity* {.fragment}
+
+
+## In a nutshell {.transition-slide .center}
+
+***Levarages the assessments***
+
+***to build capacity beyond simple reporting***
+
+# Perspectives
+
+## funnel2 {#funnel_eco2 .full-image-slide data-background-image="img/funnel_eco.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+
+## When the next project arrives {.transition-slide .center}
+
+### *Build on existing context*
+
+### *Assess risk (much!) faster*
+
+### *Support defensible decisions*
+
+
+
+## Project builder {#project_builder .full-image-slide data-background-image="img/project_builder.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+## AI-Assisted workflows
+
+# inSileco
+
+## Services
+
+::: {style="font-size: 110%;"}
+
+::: {.takeaway}
+***A well-structured assessment is not just an answer***
+:::
+
+::: {.takeaway .fragment}
+***It is an operational system for managing risk over time***
+:::
+
+:::
+
+
+# 
+
+::: {style="font-size: 120%;"}
+***Thank you!***
+:::
