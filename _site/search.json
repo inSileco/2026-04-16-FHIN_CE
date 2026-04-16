@@ -4,7 +4,7 @@
     "href": "index.html#plan",
     "title": "Cumulative effects assessments",
     "section": "Plan",
-    "text": "Plan\n\nCumulative effects assessments\nCompleted assessments\nOperationalizing assessments\nPerspectives\nQ&A"
+    "text": "Plan\n\nCumulative effects assessments\nCompleted assessments\nOperationalizing assessments\nPerspectives\nAbout us\nQ&A"
   },
   {
     "objectID": "index.html#an-ecosystem-perspective",
@@ -70,13 +70,6 @@
     "text": "St. Lawrence food webs\n\n\n\nSpecies: 193   Stressors: 18\n\n\n\n\n\n\n\n\n\n\n\n\n\nScotian Shelf food webs\n\n\n\nSpecies: 205   Habitats: 21   Stressors: 16\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSt. Lawrence maritime activities\n\n\n\nValued components: 4 (83)   Stressors: 7 (26)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSt. Lawrence Regional Assessment\n\n\n\nUpcoming"
   },
   {
-    "objectID": "index.html#common-lesson",
-    "href": "index.html#common-lesson",
-    "title": "Cumulative effects assessments",
-    "section": "Common lesson",
-    "text": "Common lesson\nThe hard part is not only completing an assessment\nIt is keeping scope, evidence, and pathways reusable\nThat is what makes assessments operational"
-  },
-  {
     "objectID": "index.html#what-questions-are-answered",
     "href": "index.html#what-questions-are-answered",
     "title": "Cumulative effects assessments",
@@ -105,8 +98,8 @@
     "text": "How do we operationalize?\nKnowledge management\nAnalytical capabilities\nDecision-support tools\nAutomated workflows"
   },
   {
-    "objectID": "index.html#operationalizing-assessments-1",
-    "href": "index.html#operationalizing-assessments-1",
+    "objectID": "index.html#operationalizing-assessments",
+    "href": "index.html#operationalizing-assessments",
     "title": "Cumulative effects assessments",
     "section": "Operationalizing assessments",
     "text": "Operationalizing assessments\n\n\n\n\n\nKnowledge Management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytical capabilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision-support tools\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutomated workflows"
@@ -154,17 +147,24 @@
     "text": "AI-Assisted workflows\n\nAI as a co-pilot for cumulative effects work\n\n\n\n\n\n\nDefine scope\n\n\n\n\nDraft valued components, stressors, pathways, and indicators\nSurface assumptions, missing information, and key questions\n\n\n\n\n\n\n\n\n\nGather evidence\n\n\n\n\nFind relevant reports, datasets, and monitoring sources\nExtract structured content into reusable assessment templates\n\n\n\n\n\n\n\n\n\n\n\nExplore outputs\n\n\n\n\nQuery maps, scenarios, and species risks in plain language\nGenerate draft summaries to support discussion and reporting\n\n\n\n\n\n\n\n\n\n\nGuardrails\n\n\n\n\nHuman reviewed\nSource linked\nVersioned and auditable\nUsed to support, not replace, expert judgment"
   },
   {
-    "objectID": "index.html#about-us",
-    "href": "index.html#about-us",
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
     "title": "Cumulative effects assessments",
-    "section": "About Us",
-    "text": "About Us\n\n\n\n\n\n\nResearch data management\nAutomated workflows\nAdvanced analytics\nDecision-support tools\n\n\n\n\n\nCollaborations:\n\nAcademia (CEM, UofG, UL, ArcticNet)\nFederal (ECCC, AEIC, DFO)\nProvincial (MNR, )\nFirst Nations (W8banaki, Wendake)"
+    "section": "",
+    "text": "inSileco\nMission\n\nOperationalize environmental management by building the capacity, tools, and systems that environmental professionals and organizations need to work confidently and efficiently.\n\n\n\nCollaborations\n\nAcademia (CEM, UofG, UL, ArcticNet, UQAR, UQAT)\nFederal (ECCC, AEIC, DFO, CWS)\nProvincial (MNR, Nanutsiavut Gvt, MFFP)\nFirst Nations (W8banaki, Wendake)"
   },
   {
-    "objectID": "index.html#insileco-1",
-    "href": "index.html#insileco-1",
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
     "title": "Cumulative effects assessments",
-    "section": "inSileco",
-    "text": "inSileco\nHow we support cumulative effects work\n\n\n\nKnowledge systems\n\n\n\nStructure pathways, indicators, and evidence so they can be reused\nTurn one-off studies into living regional context\n\n\n\n\n\n\n\nAnalytics\n\n\n\nBuild reproducible cumulative effects workflows and scenario analyses\nConnect scoping, modelling, and reporting in one system\n\n\n\n\n\n\n\nDecision tools\n\n\n\nDeliver interfaces to explore risks, pathways, and management options\nHelp teams interrogate results instead of reading static outputs\n\n\n\n\n\n\n\nAutomation\n\n\n\nUpdate data, rerun analyses, and support reporting at lower cost\nAdd AI where it reduces friction without weakening defensibility"
+    "section": "",
+    "text": "inSileco\n\n\n\n\n\n\nData Management\n\n\n\n\n\nSetup interoperable metadata tools\nStructure data for easy reuse\nTurn one-off studies into living regional context\n\n\n\n\n\n\n\n\n\n\n\nAdvanced analytics\n\n\n\n\n\nBuild analytical capacity for cumulative effects & scenario analyses\nConnect scoping, modelling, and reporting in one system\n\n\n\n\n\n\n\n\n\n\n\n\nDecision-support tools\n\n\n\n\n\nExplore risks, pathways, and management options\nAssess project contribution to risk\nCustom report generation\n\n\n\n\n\n\n\n\n\n\n\nAutomated workflows\n\n\n\n\n\nUpdate data, rerun analyses, and support reporting at lower cost\nAdd AI where it reduces friction without weakening defensibility"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "Cumulative effects assessments",
+    "section": "",
+    "text": "inSileco\n\n\n\n\n\n\nBlog    \n\n\n\nInsights & practcal guidance\nFree content on environmental data, modeling, and decision-making\n\n\n\n\n\n\n\n\n\nAcademy\n\n\n\nTraining & capacity building\nCourses, workshops, and coaching to help teams develop internal capacity\n\n\n\n\n\n\n\n\n\n\nSystems   \n\n\n\nCustom tools & data systems\nDecision-ready pipelines, models, and applications tailored to your needs\n\n\n\n\n\n\n\n\n\nIntelligence\n\n\n\nEnvironmental assessments\nComplete biodiversity, cumulative eﬀects, and risk assessments"
   }
 ]

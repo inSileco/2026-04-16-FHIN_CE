@@ -268,3 +268,9 @@
   display: block;
   margin: 0 auto 0.75rem;
 }
+
+.fixed-height {
+  height: 300px;
+  overflow-y: auto;
+  /* optional: scroll if content overflows */
+}

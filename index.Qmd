@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
 - Completed assessments
 - Operationalizing assessments 
 - Perspectives
+- About us
 - Q&A
 
 
@@ -167,16 +168,6 @@ Beauchesne et al. 2025
 :::
 :::
 <!-- end columns -->
-
-## Common lesson {.transition-slide .center}
-
-### *The hard part is not only completing an assessment*
-
-### *It is keeping scope, evidence, and pathways reusable* {.fragment}
-
-### *That is what makes assessments operational* {.fragment}
-
-# Operationalizing assessments
 
 ## What questions are answered? {.transition-slide .center}
 
@@ -366,36 +357,33 @@ Beauchesne et al. 2025
 
 # *inSileco*
 
-## About Us
+## 
 
 :::: {.columns}
 
+
 ::: {.column width="70%"}
----
+### *inSileco*
 
-:::{.fragment}
+*Mission*
 
-::: {style="font-size: 90%;"}  
-- Research data management 
-- Automated workflows
-- Advanced analytics
-- Decision-support tools
-:::
-
----
-
+::: {style="font-size: 70%;"}  
+Operationalize environmental management by building the capacity, tools, and systems that environmental professionals and organizations need to work confidently and efficiently.
 :::
 
 
+
 :::{.fragment}
-*Collaborations:*
+---
+
+*Collaborations*
 
 ::: {style="font-size: 60%;"}  
-*Academia (CEM, UofG, UL, ArcticNet)* 
+*Academia (CEM, UofG, UL, ArcticNet, UQAR, UQAT)* 
 
-*Federal (ECCC, AEIC, DFO)* 
+*Federal (ECCC, AEIC, DFO, CWS)* 
 
-*Provincial (MNR, )*
+*Provincial (MNR, Nanutsiavut Gvt, MFFP)*
 
 *First Nations (W8banaki, Wendake)*
 
@@ -437,39 +425,110 @@ Beauchesne et al. 2025
 
 :::: 
 
+##
 
-## *inSileco*
+### *inSileco*
 
-### How we support cumulative effects work
-
-::: {.callout}
-### Knowledge systems
-
-- Structure pathways, indicators, and evidence so they can be reused
+::: {.columns}
+::: {.column}
+::: {.callout-note .fixed-height icon="false"}
+### Data Management
+::: {style="font-size: 90%;"}
+::: {.fragment}
+- Setup interoperable metadata tools
+- Structure data for easy reuse
 - Turn one-off studies into living regional context
-
 :::
-::: {.callout}
-### Analytics
+:::
+:::
 
-- Build reproducible cumulative effects workflows and scenario analyses
+::: {.callout-important .fixed-height icon="false" .fragment}
+### Advanced analytics
+::: {style="font-size: 90%;"}
+::: {.fragment}
+- Build analytical capacity for cumulative effects & scenario analyses
 - Connect scoping, modelling, and reporting in one system
+:::
+:::
+:::
 
 :::
-::: {.callout}
-### Decision tools
+::: {.column}
 
-- Deliver interfaces to explore risks, pathways, and management options
-- Help teams interrogate results instead of reading static outputs
-
+::: {.callout-tip .fixed-height icon="false" .fragment}
+### Decision-support tools
+::: {style="font-size: 90%;"}
+::: {.fragment}
+- Explore risks, pathways, and management options
+- Assess project contribution to risk
+- Custom report generation
 :::
-::: {.callout}
-### Automation
+:::
+:::
 
+::: {.callout-warning .fixed-height icon="false" .fragment}
+### Automated workflows
+::: {style="font-size: 90%;"}
+::: {.fragment}
 - Update data, rerun analyses, and support reporting at lower cost
 - Add AI where it reduces friction without weakening defensibility
+:::
+:::
+:::
 
 :::
+:::
+<!-- end columns -->
+
+##
+
+### *inSileco*
+
+::: {.columns}
+::: {.column}
+::: {.callout-note .fixed-height icon="false"}
+### Blog &nbsp; <a href="https://insileco.io/en/blog" target="_blank"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/company/insileco/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+::: {style="font-size: 90%;"}
+***Insights & practcal guidance***
+
+Free content on environmental data, modeling, and decision-making
+:::
+:::
+
+::: {.callout-important .fixed-height icon="false"}
+### Academy 
+::: {style="font-size: 90%;"}
+***Training & capacity building***
+
+Courses, workshops, and coaching to help teams develop internal capacity
+:::
+:::
+
+:::
+::: {.column}
+
+::: {.callout-tip .fixed-height icon="false"}
+### Systems  &nbsp; <a href="https://insileco.io/en/portfolio" target="_blank"><i class="fa-solid fa-globe"></i></a>
+::: {style="font-size: 90%;"}
+***Custom tools & data systems***
+
+Decision-ready pipelines, models, and applications tailored to your needs
+:::
+:::
+
+::: {.callout-warning .fixed-height icon="false"}
+### Intelligence
+::: {style="font-size: 90%;"}
+***Environmental assessments***
+
+Complete biodiversity, cumulative eﬀects, and risk assessments
+:::
+:::
+
+:::
+:::
+<!-- end columns -->
+
 
 # 
 
@@ -488,6 +547,12 @@ Beauchesne et al. 2025
 
 # 
 
-::: {style="font-size: 120%;"}
+::: {style="font-size: 150%;"}
 ***Thank you!***
 :::
+
+<br>
+
+<center><img src="img/resource_access_qr.png"></img></center>
+
+
