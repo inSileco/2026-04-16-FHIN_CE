@@ -216,9 +216,7 @@ Beauchesne et al. 2025
 ### Knowledge Management
 
 ::: {style="font-size: 70%;"}
-<a href="https://019cd85e-37b5-a29b-fb8c-df7df4c6e1b1.share.connect.posit.cloud/?private_link_token=ZkNZtBUjcXOk5ivAH4WIQy0nOQYppE2flClTVMDzIKR0O8JkS2xVNNaOZuLeBkWk" target="_blank" rel="noopener noreferrer">
 <center><img src="img/ersl_hub.png" height="170"></img></center>
-</a>
 
 :::
 
@@ -227,9 +225,7 @@ Beauchesne et al. 2025
 ### Analytical capabilities
 
 ::: {style="font-size: 70%;"}
-<a href="https://github.com/inSileco/rcea" target="_blank" rel="noopener noreferrer">
-  <center><img src="img/rcea.png" height="170"></img></center>
-</a>
+<center><img src="img/rcea.png" height="170"></img></center>
 
 :::
 
@@ -240,9 +236,7 @@ Beauchesne et al. 2025
 ### Decision-support tools
 
 ::: {style="font-size: 70%;"}
-<a href="https://019cd4a4-de96-879e-dccf-534a7bdd2a23.share.connect.posit.cloud/?private_link_token=9Ri4yjiCBEKhIRtkPqoW3SVbkKZoX8t997EvMkV0u6k0eYhPEuWle3Vlm8viLdnr" target="_blank" rel="noopener noreferrer">
 <center><img src="img/cea_explorer.png" height="170"></img></center>
-</a>
 
 :::
 :::
