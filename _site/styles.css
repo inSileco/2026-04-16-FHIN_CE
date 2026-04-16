@@ -270,7 +270,7 @@
 }
 
 .fixed-height {
-  height: 300px;
+  height: 250px;
   overflow-y: auto;
   /* optional: scroll if content overflows */
 }

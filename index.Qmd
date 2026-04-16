@@ -308,8 +308,7 @@ Beauchesne et al. 2025
 ### Define scope
 
 ::: {style="font-size: 70%;"}
-- Draft valued components, stressors, pathways, and indicators
-- Surface assumptions, missing information, and key questions
+- Suggest components, stressors, and pathways
 
 
 :::
@@ -319,8 +318,7 @@ Beauchesne et al. 2025
 ### Gather evidence
 
 ::: {style="font-size: 70%;"}
-- Find relevant reports, datasets, and monitoring sources
-- Extract structured content into reusable assessment templates
+- Find and structure relevant evidence
 
 
 
@@ -333,8 +331,7 @@ Beauchesne et al. 2025
 ### Explore outputs
 
 ::: {style="font-size: 70%;"}
-- Query maps, scenarios, and species risks in plain language
-- Generate draft summaries to support discussion and reporting
+- Query results and draft summaries
 
 
 :::
@@ -343,10 +340,7 @@ Beauchesne et al. 2025
 ### Guardrails
 
 ::: {style="font-size: 70%;"}
-- Human reviewed
-- Source linked
-- Versioned and auditable
-- Used to support, not replace, expert judgment
+- Human reviewed, sourced, decision support
 
 :::
 :::
@@ -434,22 +428,15 @@ Operationalize environmental management by building the capacity, tools, and sys
 ::: {.callout-note .fixed-height icon="false"}
 ### Data Management
 ::: {style="font-size: 90%;"}
-::: {.fragment}
-- Setup interoperable metadata tools
-- Structure data for easy reuse
-- Turn one-off studies into living regional context
-:::
+- Structure evidence for reuse
+- Build living regional context
 :::
 :::
 
 ::: {.callout-important .fixed-height icon="false" .fragment}
 ### Advanced analytics
-::: {style="font-size: 90%;"}
-::: {.fragment}
-- Build analytical capacity for cumulative effects & scenario analyses
-- Connect scoping, modelling, and reporting in one system
-:::
-:::
+- Run assessments
+- Test scenarios
 :::
 
 :::
@@ -458,21 +445,16 @@ Operationalize environmental management by building the capacity, tools, and sys
 ::: {.callout-tip .fixed-height icon="false" .fragment}
 ### Decision-support tools
 ::: {style="font-size: 90%;"}
-::: {.fragment}
-- Explore risks, pathways, and management options
-- Assess project contribution to risk
-- Custom report generation
-:::
+- Explore risks and pathways of effect
+- Project assessment and generate reports
 :::
 :::
 
 ::: {.callout-warning .fixed-height icon="false" .fragment}
 ### Automated workflows
 ::: {style="font-size: 90%;"}
-::: {.fragment}
-- Update data, rerun analyses, and support reporting at lower cost
-- Add AI where it reduces friction without weakening defensibility
-:::
+- Update data and rerun analyses
+- Use AI where it reduces friction
 :::
 :::
 
@@ -495,7 +477,7 @@ Free content on environmental data, modeling, and decision-making
 :::
 :::
 
-::: {.callout-important .fixed-height icon="false"}
+::: {.callout-important .fixed-height icon="false" .fragment}
 ### Academy 
 ::: {style="font-size: 90%;"}
 ***Training & capacity building***
@@ -507,7 +489,7 @@ Courses, workshops, and coaching to help teams develop internal capacity
 :::
 ::: {.column}
 
-::: {.callout-tip .fixed-height icon="false"}
+::: {.callout-tip .fixed-height icon="false" .fragment}
 ### Systems  &nbsp; <a href="https://insileco.io/en/portfolio" target="_blank"><i class="fa-solid fa-globe"></i></a>
 ::: {style="font-size: 90%;"}
 ***Custom tools & data systems***
@@ -516,7 +498,7 @@ Decision-ready pipelines, models, and applications tailored to your needs
 :::
 :::
 
-::: {.callout-warning .fixed-height icon="false"}
+::: {.callout-warning .fixed-height icon="false" .fragment}
 ### Intelligence
 ::: {style="font-size: 90%;"}
 ***Environmental assessments***
@@ -554,5 +536,3 @@ Complete biodiversity, cumulative eﬀects, and risk assessments
 <br>
 
 <center><img src="img/resource_access_qr.png"></img></center>
-
-
